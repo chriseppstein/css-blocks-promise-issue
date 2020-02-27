@@ -53,5 +53,8 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "@css-blocks/ember-cli": "^1.0.0-alpha.7"
   }
 }
